@@ -11,7 +11,7 @@ namespace Biblioteca
         int nrCarti = 0;
         Persoana[] persoane = new Persoana[50];
         int nrPersoane = 0;
-
+        int ok = 1;
         public void citireCartiFisier(string fileName)
         {
             StreamReader s = new StreamReader(fileName);
@@ -53,6 +53,34 @@ namespace Biblioteca
                 s.WriteLine(i + 1 + ". " + persoane[i].InfoPersoana());
             }
             s.Close();
+        }
+
+        public void cautareDupaTitlu(string Nume)
+        {
+            foreach(Carte c in carti)
+            {
+                if (c.Nume == Nume)
+                {
+                    Console.WriteLine(c.Info());
+                }
+            }
+            if (ok == 0) 
+                Console.WriteLine("Nu exista cartea cu acest titlu");
+        }
+
+        public void cautareDupaNume(string Nume)
+        {
+            foreach(Persoana p in persoane)
+            {
+                if (p.Nume == Nume)
+                {
+                    Console.WriteLine(p.InfoPersoana());
+                }
+            }
+            if (ok == 0)
+            {
+                Console.WriteLine("Nu exista persoana cu acest nume");
+            }
         }
     }
 }
