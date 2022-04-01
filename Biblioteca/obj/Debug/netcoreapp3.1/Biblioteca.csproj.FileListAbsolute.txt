@@ -24,3 +24,16 @@ C:\Users\blasc\Desktop\PIU_Tema\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Bi
 C:\Users\blasc\Desktop\PIU_Tema\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\blasc\Desktop\PIU_Tema\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\blasc\Desktop\PIU_Tema\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\blasc\Desktop\Biblioteca-Lab2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\blasc\Desktop\Biblioteca-Lab2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\blasc\Desktop\Biblioteca-Lab2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\blasc\Desktop\Biblioteca-Lab2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\blasc\Desktop\Biblioteca-Lab2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\blasc\Desktop\Biblioteca-Lab2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\blasc\Desktop\Biblioteca-Lab2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\blasc\Desktop\Biblioteca-Lab2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\blasc\Desktop\Biblioteca-Lab2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\blasc\Desktop\Biblioteca-Lab2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\blasc\Desktop\Biblioteca-Lab2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\blasc\Desktop\Biblioteca-Lab2\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\blasc\Desktop\Biblioteca-Lab2\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache

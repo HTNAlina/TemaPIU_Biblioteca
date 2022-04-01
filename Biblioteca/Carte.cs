@@ -52,6 +52,19 @@ namespace Biblioteca
             GenCarte = (GENCARTE)(i);
         }
 
+        //Citire din linia de comanda
+        public Carte(string []buff)
+        {
+            Nume = buff[0];
+            Autor = buff[1];
+            Editura = buff[2];
+            AnAparitie = Convert.ToInt32(buff[3]);
+            NrExemplare = Convert.ToInt32(buff[4]);
+            IDcarte = Convert.ToInt32(buff[5]);
+            int i = Convert.ToInt32(buff[6]);
+            GenCarte = (GENCARTE)(i);
+        }
+
         public string Info()
         {
             return string.Format("Cartea cu numele {0}, scrisa de {1}, publicata la editura {2}, a aparut in anul {3} si o avem disponibila in {4} exemplare ( are ID-ul : {5}).", Nume, Autor, Editura, AnAparitie, NrExemplare, IDcarte);

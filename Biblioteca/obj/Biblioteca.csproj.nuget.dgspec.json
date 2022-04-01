@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blasc\\Desktop\\PIU_Tema\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\blasc\\Desktop\\Biblioteca-Lab2\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blasc\\Desktop\\PIU_Tema\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\blasc\\Desktop\\Biblioteca-Lab2\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blasc\\Desktop\\PIU_Tema\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\blasc\\Desktop\\Biblioteca-Lab2\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\blasc\\Desktop\\PIU_Tema\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\blasc\\Desktop\\Biblioteca-Lab2\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\blasc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blasc\\Desktop\\PIU_Tema\\Biblioteca\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\blasc\\Desktop\\Biblioteca-Lab2\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

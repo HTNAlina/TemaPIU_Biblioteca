@@ -59,6 +59,19 @@ namespace Biblioteca
             statut = (STATUT)_statut;
         }
 
+        //Citire din linia de comanda
+        public Persoana(string []buff)
+        {
+            Nume = buff[0];
+            Prenume = buff[1];
+            Varsta = Convert.ToInt32(buff[2]);
+            NrCartiImprumutate = Convert.ToInt32(buff[3]);
+            NrTelefon = buff[4];
+            AdresaMail = buff[5];
+            int _statut = Convert.ToInt32(buff[6]);
+            statut = (STATUT)_statut;
+        }
+
         //Afisare info persoana
         public string InfoPersoana()
         {
